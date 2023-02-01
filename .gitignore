@@ -1,2 +1,6 @@
+# Dependency directories
 node_modules/
-.DS_STORE
+# Optional npm cache directory
+.npm
+
+.DS_Store
