@@ -2,6 +2,8 @@
 
 To quicker generate Readme documents for homework assignments
 
+https://github.com/ilavine/readme-generator
+
 ## Technologies
 Node.js
 
@@ -9,6 +11,8 @@ Node.js
 1) npm i inquirer
 
 ## Mock-up Image 
+
+Walkthrough video: https://youtu.be/cIEz-AiIwts
 
 ![Screenshots](img/readme.png)
 
